@@ -4,7 +4,7 @@ Fast python scraper to download texts from [Project Gutenberg](https://www.guten
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/tudord14/text-scraper
+   git clone https://github.com/tudord14/text-scraper.git
    cd text-scraper
    ```
 2. **Install requirements**:
