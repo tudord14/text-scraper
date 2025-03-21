@@ -4,7 +4,7 @@ from full_class import textExtractor
 """
 
 -> main app which uses the textExtractor class from full_class.py
--> Works good!
+-> Works good!!!
 
 """
 

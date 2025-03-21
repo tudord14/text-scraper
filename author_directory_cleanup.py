@@ -2,11 +2,11 @@ import os
 from tkinter import Tk, filedialog, messagebox
 
 """
--> Because each gutenberg file contains other elements besides the text we would like
+-> because each gutenberg file contains other elements besides the text we would like
    to clean each file a little bit before starting our analysis
--> First of all we should change the .txt file title by finding it in the file
--> Then we would like to only extract the text from the whole file
--> Optional: we can delete the .epub files so that at the end we have a clean folder
+-> first of all we should change the .txt file title by finding it in the file
+-> then we would like to only extract the text from the whole file
+-> optional: we can delete the .epub files so that at the end we have a clean folder
     --> "get_title_from_text" function reads the text and searches for the gutenberg tag 
     that indicates the texts Title
     --> "clean_text_content" function looks for the gutenberg tags that declare the start and end of a text
@@ -19,10 +19,10 @@ from tkinter import Tk, filedialog, messagebox
     directories at the same time (users choice)
 
                                         !!!
-    ------> Even though this process "cleans" the directory as much as possible,
+    ------> even though this process "cleans" the directory as much as possible,
             a lot of gutenberg authors have assigned to their name a lot of texts
             that may or may not really be their work
-    ------> That being said, the user is advised to take a look at the resulted texts
+    ------> that being said, the user is advised to take a look at the resulted texts
             so that he can ensure data quality ;)
                                         !!!
 

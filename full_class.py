@@ -9,7 +9,7 @@ import re
 
 """
 
--> class containing all of the functions for Wikisource(ro) and Gutenberg extracting and cleaning
+-> class containing all of the functions for wikisource(ro) and gutenberg extracting and cleaning
 -> this is just a summary of the separate .py file:
     -> author_directory_cleanup.py
     -> author_texts_extraction_epub_to_txt.py

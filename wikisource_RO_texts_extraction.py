@@ -8,18 +8,18 @@ from bs4.element import Tag
 import re
 
 """
-UPDATE 1: ->
+UPDATE 1.0: ->
     -> The code obtains the texts from a specific Romanian author
     but the folder is not really "clean"
     -> A follow-up program for cleaning the folder will be created
     -> (I hope it will happen soon)
     
-UPDATE 2: ->
+UPDATE 1.1: ->
     -> The folder is a little cleaner now
     -> I have added a list of the most notable romanian authors
     -> This list can be used to generate all the folders at once later
     
-UPDATE 3:  -> 
+UPDATE 1.2:  -> 
     -> The text files now don't contain the text title and the authors name
     -> Works good!
     

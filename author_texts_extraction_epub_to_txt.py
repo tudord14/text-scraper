@@ -9,13 +9,13 @@ from ebooklib import epub
 
 -> "search_epub" function is made to take in an author name as input and    
     create a list of links of texts that were written by that author
--> The links are for the .epub versions of the books
--> Once a list of links is obtained we use the function "download_epub" 
+-> the links are for the .epub versions of the books
+-> once a list of links is obtained we use the function "download_epub" 
    that takes as input a link and an output path to download each .epub file
--> By using the "epub_to_text" function we transform an .epub into .txt file
--> The "main" function takes care of everything and requires only an author name
+-> by using the "epub_to_text" function we transform an .epub into .txt file
+-> the "main" function takes care of everything and requires only an author name
 
-----> When run, the program should ask for an author name, be sure to write it correctly!!!
+----> when run, the program should ask for an author name, be sure to write it correctly!!!
 
 """
 
