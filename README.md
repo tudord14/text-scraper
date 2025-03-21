@@ -1,6 +1,6 @@
 # text-scraper
 
-Fast python scraper to download texts from [Project Gutenberg](https://www.gutenberg.org/) or [Wikisource (Romanian only)](https://ro.wikisource.org)
+Fast python scraper for downloading texts from [Project Gutenberg](https://www.gutenberg.org/) or [Wikisource (Romanian only)](https://ro.wikisource.org)
 
 1. **Clone the repository**:
    ```bash
